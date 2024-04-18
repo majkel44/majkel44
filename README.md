@@ -5,6 +5,6 @@ My name is Michał Kruczkowski, I'm a student of Politechnika Gdańska at the Da
 - 🔭 I’m currently working on a Large Scale Enterprise Application Java project.
 - 🌱 I’m currently learning to skillfully utilize my current knowledge of programming languages.
 - 📫 How to reach me:  
-    Phone number: 697133354
-    Email michalkruczkowski44@gmail.com
+    Phone number: 697133354,
+    Email: michalkruczkowski44@gmail.com
 
